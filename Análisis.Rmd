@@ -1,5 +1,7 @@
 ---
-title: "Análisis"
+title: "Análisis de la producción de aceite"
+author: "FRS"
+date: 
 output: html_document
 ---
 
